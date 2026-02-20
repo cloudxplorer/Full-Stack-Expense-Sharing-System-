@@ -93,3 +93,47 @@ hr {
   height: 1px;
   background-color: #eee;
 }
+
+/* Debts */
+
+.debt-item {
+  padding: 10px 12px;
+  margin-bottom: 8px;
+  border-radius: 10px;
+  font-size: 14px;
+  border: 1px solid #eee;
+  background: #fafafa;
+}
+
+.debt-owe {
+  color: #d62828;
+  background-color: #fff5f5;
+  border: 1px solid #ffd6d6;
+}
+
+.debt-receive {
+  color: #2a9d8f;
+  background-color: #f1fffb;
+  border: 1px solid #c7f5e8;
+}
+
+/* Transactions */
+
+.transaction-item {
+  padding: 8px 12px;
+  margin-bottom: 6px;
+  font-size: 13px;
+  border-radius: 8px;
+  background: #f7f7f7;
+  border: 1px solid #eee;
+  color: #555;
+}
+
+/* Empty Text */
+
+.empty-text {
+  font-size: 13px;
+  color: #999;
+  text-align: center;
+  margin-top: 10px;
+}
