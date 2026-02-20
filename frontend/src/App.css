@@ -94,8 +94,6 @@ hr {
   background-color: #eee;
 }
 
-/* Debts */
-
 .debt-item {
   padding: 10px 12px;
   margin-bottom: 8px;
@@ -117,7 +115,7 @@ hr {
   border: 1px solid #c7f5e8;
 }
 
-/* Transactions */
+
 
 .transaction-item {
   padding: 8px 12px;
@@ -129,7 +127,6 @@ hr {
   color: #555;
 }
 
-/* Empty Text */
 
 .empty-text {
   font-size: 13px;
